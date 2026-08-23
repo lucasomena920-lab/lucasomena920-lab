@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Lucas Omena 👋</h1>
+<h1 align="center">Olá, sou o Lucas Omena </h1>
 
 <h3 align="center">Desenvolvedor Web & UX/UI Designer</h3>
 
